@@ -1,3 +1,5 @@
+package CarpetCost;
+
 public class Carpet {
     private double cost;
 
